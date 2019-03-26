@@ -16,12 +16,12 @@
   presented by Microsoft CEO Satya Nadella.  
   (working as Integration consultant) - [Video on Youtube](https://www.youtube.com/watch?v=rVF2duPVUTY)
 
-### Recent university-tech research collaboration:
+### Toulouse University realted work:
 * Design Thinking workshops: Can Disruptive Innovation be taught?  
-  [Recorded talk on Youtube](https://www.youtube.com/watch?v=XkYbLnVBWlY)
+  [Thesis presentation](https://www.youtube.com/watch?v=XkYbLnVBWlY)
+* [Teaching the module: Innovation et Entrepreneurship in IoT](https://eformation.univ-tlse3.fr/oc/spoc-innov/)
 
 ### Some of recent docs and courses:
-* [Toulouse University - Innovation et Entrepreneurship in IoT](https://eformation.univ-tlse3.fr/oc/spoc-innov/)
 * [Autonomous Drone Development with Intel Aero - Wiki](https://github.com/intel-aero/meta-intel-aero/wiki)
 * [Autonomous Drone Development with Intel Aero - Videos](https://www.youtube.com/playlist?list=PLTQSXsG86pGfyZm5ac6-ZtQsEniUJIE9o)
 * [Internet of Things Course - Videos](https://www.youtube.com/playlist?list=PLFBM-eCNdj6A5VSmOEjpn8XoiM88398B7)
