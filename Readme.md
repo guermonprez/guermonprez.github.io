@@ -22,7 +22,7 @@
   [Slide deck](http://guermonprez.eu/paul/innovation/Design_Thinking_Disruptive_Innovation_-_Paul_Guermonprez.pdf)
 * [Teaching the module: Innovation et Entrepreneurship in IoT](https://eformation.univ-tlse3.fr/oc/spoc-innov/)
 
-### Some of recent docs and courses:
+### Some of my recent docs and courses:
 * [Autonomous Drone Development with Intel Aero - Wiki](https://github.com/intel-aero/meta-intel-aero/wiki)
 * [Autonomous Drone Development with Intel Aero - Videos](https://www.youtube.com/playlist?list=PLTQSXsG86pGfyZm5ac6-ZtQsEniUJIE9o)
 * [Internet of Things Course - Videos](https://www.youtube.com/playlist?list=PLFBM-eCNdj6A5VSmOEjpn8XoiM88398B7)
@@ -37,8 +37,6 @@
 * Work at Intel : paul.guermonprez@intel.com
 * Personal : paul@guermonprez.eu
 * Mobile : +1(0)415-758-3366
-
-### Social:
 * Skype: [paulfg](skype:paulfg?call)
 * Facebook: [fb.com/paul.guermonprez](https://www.facebook.com/paul.guermonprez) (private only)
 * Hangout: [paul.guermonprez@gmail.com](mailto:paul.guermonprez@gmail.com)
