@@ -12,7 +12,7 @@
 * Intel AI-AR glasses for Airbus Smart Factory  
   demoed at IDF2016 by Intel CEO Brian Krzanich.  
   (working as Product lead) - [Video on Youtube](https://youtu.be/QRBofzL4MDY?t=35)
-* Pivothead AI-AR smart glasses using Microsoft Cognitive Services for vision assistance,  
+* Pivothead AI-AR smart glasses using Microsoft Cognitive Services,  
   presented by Microsoft CEO Satya Nadella.  
   (working as Integration consultant) - [Video on Youtube](https://www.youtube.com/watch?v=rVF2duPVUTY)
 
