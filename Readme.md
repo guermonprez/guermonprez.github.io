@@ -1,8 +1,8 @@
 # Innovation Engineer with a focus on AI and CyberSecurity
 
 ### Current Positions:
-* Software/AI Autonomous Drone Architect at Intel in California
-* Innovation Lecturer at Toulouse University in France 
+* Software/AI Autonomous Drone Architect at Intel in the Bay Area
+* Innovation Lecturer at Toulouse University in France
 
 ### Resume:
 * [PDF Resume](https://github.com/guermonprez/guermonprez.github.io/blob/master/Paul_Guermonprez_-_Innovation_Engineer_CV.pdf?raw=true)
@@ -27,6 +27,11 @@
 * [Autonomous Drone Development with Intel Aero - Videos](https://www.youtube.com/playlist?list=PLTQSXsG86pGfyZm5ac6-ZtQsEniUJIE9o)
 * [Internet of Things Course - Videos](https://www.youtube.com/playlist?list=PLFBM-eCNdj6A5VSmOEjpn8XoiM88398B7)
 * [Internet of Things Course - Slides](https://github.com/guermonprez/intel-academic-IoT-course/tree/master/slides)
+
+### Current priorities:
+* Security: Finishing the ECH and AWS Security Specialty certification (currently AWS-Architect)
+* AI: Constantly learning about AI and using it for my daily work (tensorflow, sagemaker, gluon, movidius)
+* Development: Ramping up on serverless/SAM frameworks and graphql APIs development
 
 ### Contact:
 * Work at Intel : paul.guermonprez@intel.com
