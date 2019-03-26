@@ -9,7 +9,9 @@
 * [LinkedIn](http://www.linkedin.com/in/paulguermonprez)
 
 ### Some of my public demos:
-* [Intel AI-AR glasses for Airbus Smart Factory demoed at IDF2016 by Intel CEO Brian Krzanich. (Product lead)](https://youtu.be/QRBofzL4MDY?t=35)
+* [Intel AI-AR glasses for Airbus Smart Factory  
+  demoed at IDF2016 by Intel CEO Brian Krzanich.  
+  (Product lead)](https://youtu.be/QRBofzL4MDY?t=35)
 * [Pivothead AI-AR smart glasses using Microsoft Cognitive Services for vision assistance, presented by Microsoft CEO Satya Nadella. (Consultant)](https://www.youtube.com/watch?v=rVF2duPVUTY)
 
 ### Recent university-tech research collaboration:
