@@ -9,15 +9,16 @@
 * [LinkedIn](http://www.linkedin.com/in/paulguermonprez)
 
 ### Some of my public demos:
-* [Intel AI-AR glasses for Airbus Smart Factory  
+* Intel AI-AR glasses for Airbus Smart Factory  
   demoed at IDF2016 by Intel CEO Brian Krzanich.  
-  (working as Product lead)](https://youtu.be/QRBofzL4MDY?t=35)
-* [Pivothead AI-AR smart glasses using Microsoft Cognitive Services for vision assistance,  
-  presented by Microsoft CEO Satya Nadella.
-  (working as Integration consultant)](https://www.youtube.com/watch?v=rVF2duPVUTY)
+  (working as Product lead) - [Video on Youtube](https://youtu.be/QRBofzL4MDY?t=35)
+* Pivothead AI-AR smart glasses using Microsoft Cognitive Services for vision assistance,  
+  presented by Microsoft CEO Satya Nadella.  
+  (working as Integration consultant) - [Video on Youtube](https://www.youtube.com/watch?v=rVF2duPVUTY)
 
 ### Recent university-tech research collaboration:
-* [Design Thinking workshops: Can Disruptive Innovation be taught?](https://www.youtube.com/watch?v=XkYbLnVBWlY)
+* Design Thinking workshops: Can Disruptive Innovation be taught?  
+  [Recorded talk on Youtube](https://www.youtube.com/watch?v=XkYbLnVBWlY)
 
 ### Some of recent docs and courses:
 * [Toulouse University - Innovation et Entrepreneurship in IoT](https://eformation.univ-tlse3.fr/oc/spoc-innov/)
