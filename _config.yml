@@ -1,9 +1,8 @@
 theme: jekyll-theme-minimal
 title: Paul Guermonprez
 description: Innovation Engineer with a focus on AI and CyberSecurity
-markdown: kramdown
-use_logo: true
-logo: https://github.com/guermonprez/guermonprez.github.io/blob/master/id.jpg?raw=true
+logo: [https://github.com/guermonprez/guermonprez.github.io/blob/master/id.jpg?raw=true]
+show_downloads: false
 
 author:
   name: Paul Guermonprez
