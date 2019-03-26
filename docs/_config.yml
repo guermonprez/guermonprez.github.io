@@ -1,11 +1,4 @@
 theme: jekyll-theme-minimal
 title: Paul Guermonprez
 description: Innovation Engineer with a focus on AI and CyberSecurity
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+avatar: https://github.com/guermonprez/www/blob/master/docs/id.jpg?raw=true
