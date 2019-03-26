@@ -1,3 +1,7 @@
+---
+title: Paul Guermonprez
+layout: post
+---
 # Paul Guermonprez
 
 ### Innovation Engineer with a focus on AI and CyberSecurity
