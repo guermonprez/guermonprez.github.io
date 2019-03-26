@@ -16,7 +16,7 @@
   presented by Microsoft CEO Satya Nadella.  
   (working as Integration consultant) - [Video on Youtube](https://www.youtube.com/watch?v=rVF2duPVUTY)
 
-### Toulouse University realted work:
+### Toulouse University related work:
 * Design Thinking workshops: Can Disruptive Innovation be taught?  
   [Thesis presentation on Youtube](https://www.youtube.com/watch?v=XkYbLnVBWlY)  
   [Slide deck](http://guermonprez.eu/paul/innovation/Design_Thinking_Disruptive_Innovation_-_Paul_Guermonprez.pdf)
