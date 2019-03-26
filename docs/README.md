@@ -2,6 +2,8 @@
 
 ### Innovation Engineer with a focus on AI and CyberSecurity
 
+![ID](https://raw.githubusercontent.com/guermonprez/www/master/docs/id.jpg)
+
 Current Positions:
 * Software/AI Autonomous Drone Architect at Intel in California
 * Innovation Lecturer at Toulouse University in France 
