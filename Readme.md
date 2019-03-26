@@ -12,10 +12,15 @@
 * [Intel AI-AR glasses for Airbus Smart Factory demoed at IDF2016 by Intel CEO Brian Krzanich. (Product lead)](https://youtu.be/QRBofzL4MDY?t=35)
 * [Pivothead AI-AR smart glasses using Microsoft Cognitive Services for vision assistance, presented by Microsoft CEO Satya Nadella. (Consultant)](https://www.youtube.com/watch?v=rVF2duPVUTY)
 
-### Some of the docs and courses:
+### Recent university-tech research collaboration:
+* [Design Thinking workshops: Can Disruptive Innovation be taught?](https://www.youtube.com/watch?v=XkYbLnVBWlY)
+
+### Some of recent docs and courses:
 * [Toulouse University - Innovation et Entrepreneurship in IoT](https://eformation.univ-tlse3.fr/oc/spoc-innov/)
-* [Intel Aero Autonomous Drone Development](https://github.com/intel-aero/meta-intel-aero/wiki) - 
-[Video playlist](https://www.youtube.com/playlist?list=PLTQSXsG86pGfyZm5ac6-ZtQsEniUJIE9o)
+* [Autonomous Drone Development with Intel Aero - Wiki](https://github.com/intel-aero/meta-intel-aero/wiki)
+* [Autonomous Drone Development with Intel Aero - Videos](https://www.youtube.com/playlist?list=PLTQSXsG86pGfyZm5ac6-ZtQsEniUJIE9o)
+* [Internet of Things Course - Videos](https://www.youtube.com/playlist?list=PLFBM-eCNdj6A5VSmOEjpn8XoiM88398B7)
+* [Internet of Things Course - Slides](https://github.com/guermonprez/intel-academic-IoT-course/tree/master/slides)
 
 ### Contact:
 * Work at Intel : paul.guermonprez@intel.com
