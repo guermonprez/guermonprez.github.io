@@ -3,6 +3,9 @@ title: Paul Guermonprez
 logo: https://github.com/guermonprez/guermonprez.github.io/blob/master/id.jpg?raw=true
 show_downloads: false
 
+github:
+  is_project_page: false
+  
 author:
   name: Paul Guermonprez
   email: paul@guermonprez.eu
