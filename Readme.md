@@ -18,7 +18,7 @@
 
 ### Toulouse University realted work:
 * Design Thinking workshops: Can Disruptive Innovation be taught?  
-  [Thesis presentation](https://www.youtube.com/watch?v=XkYbLnVBWlY)
+  [Thesis presentation on Youtube](https://www.youtube.com/watch?v=XkYbLnVBWlY)
 * [Teaching the module: Innovation et Entrepreneurship in IoT](https://eformation.univ-tlse3.fr/oc/spoc-innov/)
 
 ### Some of recent docs and courses:
