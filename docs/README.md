@@ -2,7 +2,7 @@
 
 ### Innovation Engineer with a focus on AI and CyberSecurity
 
-![ID](https://github.com/guermonprez/www/blob/master/docs/id.jpg?raw=true  | width=300)
+<img src="https://github.com/guermonprez/www/blob/master/docs/id.jpg?raw=true" width=300>
 
 Current Positions:
 * Software/AI Autonomous Drone Architect at Intel in California
