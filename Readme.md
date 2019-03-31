@@ -29,7 +29,7 @@
 * [Internet of Things Course - Slides](https://github.com/guermonprez/intel-academic-IoT-course/tree/master/slides)
 
 ### Current priorities:
-* Security: Finishing the ECH and AWS Security Specialty certification (currently AWS-Architect)
+* Security: Finishing the CEH and AWS Security Specialty certification (currently AWS-Architect)
 * AI: Constantly learning about AI and using it for my daily work (tensorflow, sagemaker, gluon, movidius)
 * Development: Ramping up on serverless/SAM frameworks and graphql APIs development
 
