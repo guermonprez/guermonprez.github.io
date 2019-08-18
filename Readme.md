@@ -41,3 +41,7 @@
 * Facebook: [fb.com/paul.guermonprez](https://www.facebook.com/paul.guermonprez) (private only)
 * Hangout: [paul.guermonprez@gmail.com](mailto:paul.guermonprez@gmail.com)
 
+### Status:
+* US: work permit (EAD card), green card coming soon. Living in San Francisco.
+* Citizenship: French.
+
