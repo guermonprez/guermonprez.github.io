@@ -17,7 +17,8 @@
   (working as Integration consultant) - [Video on Youtube](https://www.youtube.com/watch?v=rVF2duPVUTY)
 * The standalone version of the Pivothead glasses for the blind,  
   this time using open source stacks and edge computing  
-  on Intel Edison inside the glasses - [Video on Youtube](https://www.youtube.com/watch?v=blk3kecrG6Y)
+  on Intel Edison inside the glasses  
+  (personal project) - [Video on Youtube](https://www.youtube.com/watch?v=blk3kecrG6Y)
 
 ### Toulouse University related work:
 * Design Thinking workshops: Can Disruptive Innovation be taught?  
