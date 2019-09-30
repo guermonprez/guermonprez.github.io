@@ -3,6 +3,7 @@
 ### Current Positions:
 * Software/AI Autonomous Drone Architect at Intel in the Bay Area
 * Innovation Lecturer at Toulouse University in France
+* Looking for new opportunities ... contact me!
 
 ### Résumé:
 * [PDF Resume](https://github.com/guermonprez/guermonprez.github.io/blob/master/Paul_Guermonprez_-_Innovation_Engineer_CV.pdf?raw=true)
