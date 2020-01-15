@@ -1,9 +1,8 @@
-# Innovation Engineer with a focus on AI and CyberSecurity
+# Innovation Engineer with a focus on IoT, AI and CyberSecurity
 
 ### Current Positions:
-* Software/AI Autonomous Drone Architect at Intel in the Bay Area
+* Innovation Engineer for Procter and Gamble in San Francisco
 * Innovation Lecturer at Toulouse University in France
-* Looking for new opportunities ... contact me!
 
 ### Résumé:
 * [PDF Resume](https://github.com/guermonprez/guermonprez.github.io/blob/master/Paul_Guermonprez_-_Innovation_Engineer_CV.pdf?raw=true)
@@ -39,7 +38,7 @@
 * Development: Ramping up on serverless/SAM frameworks and graphql APIs development.
 
 ### Contact:
-* Work at Intel : paul.guermonprez@intel.com
+* Work at Procter ang Gamble : guermonprez.p@pg.com
 * Personal : paul@guermonprez.eu
 * Mobile : +1(0)415-758-3366
 * Skype: [paulfg](skype:paulfg?call)
@@ -47,6 +46,6 @@
 * Hangout: [paul.guermonprez@gmail.com](mailto:paul.guermonprez@gmail.com)
 
 ### Status:
-* US: work permit (EAD card), green card coming soon. Living in San Francisco.
+* US: green card. Living in San Francisco.
 * Citizenship: French.
 
