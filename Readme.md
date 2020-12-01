@@ -1,7 +1,7 @@
 # Innovation Engineer with a focus on IoT, AI and CyberSecurity
 
 ### Current Positions:
-* Innovation Engineer for Procter and Gamble in San Francisco
+* Management of Innovation for Procter and Gamble in San Francisco
 * Innovation Lecturer at Toulouse University in France
 
 ### Résumé:
