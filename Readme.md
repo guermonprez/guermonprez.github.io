@@ -33,9 +33,9 @@
 * [Internet of Things Course - Slides](https://github.com/guermonprez/intel-academic-IoT-course/tree/master/slides)
 
 ### Current priorities:
-* Security: CISSP, AWS-Security specialty certified. Working on CISM and CEH.
+* Security: CISSP, CISM, CEH, AWS-Security specialty certified. Working on CIPP.
 * AI: Constantly learning about AI and using it for my daily work (tensorflow, sagemaker, gluon, movidius)
-* Development: Ramping up on serverless/SAM frameworks and graphql APIs development.
+* Development: Lately, focus on serverless/SAM frameworks and graphql APIs development.
 
 ### Contact:
 * Work at Procter and Gamble : guermonprez.p@pg.com
