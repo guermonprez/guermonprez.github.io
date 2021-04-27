@@ -8,12 +8,13 @@
 * [PDF Resume](https://github.com/guermonprez/guermonprez.github.io/blob/master/Paul_Guermonprez_-_Innovation_Engineer_CV.pdf?raw=true)
 * [LinkedIn](http://www.linkedin.com/in/paulguermonprez)
 
-<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CMMC-RP.png" height=80>
-<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISSP.png" height=80>
-<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISM.png" height=80>
-<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CEH.png" height=80>
-<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Sec.png" height=80>
-<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Arch.png" height=80>
+<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CMMC-RP.png" height=60>
+<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Sec.png" height=60>
+<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Arch.png" height=60>
+<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISSP.png" height=60>
+<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISM.png" height=60>
+<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CEH.png" height=60>
+
 
 ### Some of my public demos:
 * Intel AI-AR glasses for Airbus Smart Factory  
