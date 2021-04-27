@@ -8,6 +8,13 @@
 * [PDF Resume](https://github.com/guermonprez/guermonprez.github.io/blob/master/Paul_Guermonprez_-_Innovation_Engineer_CV.pdf?raw=true)
 * [LinkedIn](http://www.linkedin.com/in/paulguermonprez)
 
+![CMMC-Registrered Professional](https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CMMC-RP.png)
+![CISSP](https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISSP.png)
+![CISM](https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISM.png)
+![CEH](https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CEH.png)
+![AWS Security Specialty](https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Sec.png)
+![AWS Solution Architect](https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Arch.png)
+
 ### Some of my public demos:
 * Intel AI-AR glasses for Airbus Smart Factory  
   demoed at IDF2016 by Intel CEO Brian Krzanich.  
