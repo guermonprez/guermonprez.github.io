@@ -13,8 +13,8 @@
 <img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Sec.png" height=60>
 <img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Arch.png" height=60>
 <img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISSP.png" height=60>
-<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISM.png" height=60>
 <img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CEH.png" height=60>
+<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISM.png" height=60>
 
 
 ### Some of my public demos:
