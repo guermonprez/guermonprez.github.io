@@ -9,6 +9,8 @@
 * [LinkedIn](http://www.linkedin.com/in/paulguermonprez)
 
 ### Certifications:
+CISSP, CISM, CEH, CMMC-RP, AWS-SCS Security specialty, AWS-SAA Solutions Architect.
+
 <img alt="CMMC-RP" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CMMC-RP.png" height=60>
 <img alt="AWS-Security" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Sec.png" height=60>
 <img alt="AWS-Arch" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Arch.png" height=60>
@@ -40,11 +42,6 @@
 * [Autonomous Drone Development with Intel Aero - Videos](https://www.youtube.com/playlist?list=PLTQSXsG86pGfyZm5ac6-ZtQsEniUJIE9o)
 * [Internet of Things Course - Videos](https://www.youtube.com/playlist?list=PLFBM-eCNdj6A5VSmOEjpn8XoiM88398B7)
 * [Internet of Things Course - Slides](https://github.com/guermonprez/intel-academic-IoT-course/tree/master/slides)
-
-### Current priorities:
-* Security: CISSP, CISM, CEH, AWS-Security specialty certified. Working on CIPP.
-* AI: Constantly learning about AI and using it for my daily work (tensorflow, sagemaker, gluon, movidius)
-* Development: Lately, focus on serverless/SAM frameworks and graphql APIs development.
 
 ### Contact:
 * Work at Procter and Gamble : guermonprez.p@pg.com
