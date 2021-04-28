@@ -9,12 +9,12 @@
 * [LinkedIn](http://www.linkedin.com/in/paulguermonprez)
 
 ### Certifications:
-<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CMMC-RP.png" height=60>
-<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Sec.png" height=60>
-<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Arch.png" height=60>
-<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISSP.png" height=60>
-<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CEH.png" height=60>
-<img src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISM.png" height=60>
+<img alt="CMMC-RP" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CMMC-RP.png" height=60>
+<img alt="AWS-Security" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Sec.png" height=60>
+<img alt="AWS-Arch" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Arch.png" height=60>
+<img alt="CISM" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISM.png" height=60>
+<img alt="CISSP" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISSP.png" height=60>
+<img alt="CEH" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CEH.png" height=60>
 
 
 ### Some of my public demos:
@@ -48,7 +48,7 @@
 
 ### Contact:
 * Work at Procter and Gamble : guermonprez.p@pg.com
-* Personal : paul@guermonprez.eu
+* Personal : paul.guermonprez@gmail.com
 * Mobile : +1(0)415-758-3366
 * Skype: [paulfg](skype:paulfg?call)
 * Facebook: [fb.com/paul.guermonprez](https://www.facebook.com/paul.guermonprez) (private only)
