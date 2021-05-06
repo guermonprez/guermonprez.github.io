@@ -1,4 +1,4 @@
-# Innovation Engineer with a focus on IoT, AI and CyberSecurity
+# Innovation Management - Focus on AI, Robotics, and Cybersecurity
 
 ### Current Positions:
 * Management of Innovation for Procter and Gamble in San Francisco
