@@ -9,7 +9,7 @@
 * [LinkedIn](http://www.linkedin.com/in/paulguermonprez)
 
 ### Certifications:
-CISSP, CISM, CEH, CMMC-RP, AWS-SCS Security specialty, AWS-SAA Solutions Architect.
+CISSP, CISM, CEH, CNDA, CMMC-RP, AWS-SCS Security specialty, AWS-SAA Solutions Architect.
 
 <img alt="CMMC-RP" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CMMC-RP.png" height=60>
 <img alt="AWS-Security" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Sec.png" height=60>
@@ -17,6 +17,7 @@ CISSP, CISM, CEH, CMMC-RP, AWS-SCS Security specialty, AWS-SAA Solutions Archite
 <img alt="CISM" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISM.png" height=60>
 <img alt="CISSP" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISSP.png" height=60>
 <img alt="CEH" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CEH.png" height=60>
+<img alt="CNDA" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CNDA.png" height=60>
 
 
 ### Some of my public demos:
