@@ -5,7 +5,7 @@
 * Innovation Lecturer at Toulouse University in France
 
 ### Résumé:
-* [PDF Resume](https://github.com/guermonprez/guermonprez.github.io/blob/master/Paul_Guermonprez_-_Innovation_Engineer_CV.pdf?raw=true)
+* [PDF Resume](https://github.com/guermonprez/guermonprez.github.io/blob/master/Paul_Guermonprez_-_Innovation_Management.pdf?raw=true)
 * [LinkedIn](http://www.linkedin.com/in/paulguermonprez)
 
 ### Certifications:
