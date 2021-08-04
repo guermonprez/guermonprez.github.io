@@ -1,7 +1,7 @@
 # Innovation Management - Focus on AI, Robotics, and Cybersecurity
 
 ### Current Positions:
-* Management of Innovation for Procter and Gamble in San Francisco
+* Management of Innovation and CyberSecurity/Risk Management for Procter and Gamble, based in San Francisco
 * Innovation Lecturer at Toulouse University in France
 
 ### Résumé:
