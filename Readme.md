@@ -8,6 +8,7 @@
 * [PDF Resume WITH PHOTO](https://github.com/guermonprez/guermonprez.github.io/blob/master/Paul_Guermonprez_-_Innovation_Manager.pdf?raw=true)
 * [PDF Resume WITHOUT PHOTO](https://github.com/guermonprez/guermonprez.github.io/blob/master/Paul_Guermonprez_-_Innovation_Manager_NOPHOTO.pdf?raw=true)
 * [LinkedIn](http://www.linkedin.com/in/paulguermonprez)
+* Available for jobs that require US citizenship.
 
 ### Certifications:
 CISSP, CISM, CEH, CNDA, CMMC-RP, AWS-SCS Security specialty, AWS-SAA Solutions Architect.
