@@ -16,6 +16,8 @@ CISSP, CISM, CEH, CNDA, CMMC-RP, AWS-SCS Security specialty, AWS-SAA Solutions A
 <img alt="CMMC-RP" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CMMC-RP.png" height=60>
 <img alt="AWS-Security" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Sec.png" height=60>
 <img alt="AWS-Arch" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Arch.png" height=60>
+<img alt="Azure-Fundamentals" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_Azure-Fundamentals.png" height=60>
+<img alt="Azure-AIFundamentals" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_Azure-AIFundamentals.png" height=60>
 <img alt="CISM" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISM.png" height=60>
 <img alt="CISSP" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISSP.png" height=60>
 <img alt="CEH" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CEH.png" height=60>
