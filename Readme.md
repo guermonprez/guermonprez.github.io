@@ -11,7 +11,7 @@
 * Available for jobs that require US citizenship.
 
 ### Certifications:
-CISSP, CISM, CEH, CNDA, CMMC-RP, AWS-SCS Security specialty, AWS-SAA Solutions Architect.
+CISSP, CISM, CEH, CNDA, CMMC-RP, AWS-SCS Security specialty, AWS-SAA Solutions Architect, Azure AI Fundamentals, Azure Fundamentals.
 
 <img alt="CMMC-RP" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CMMC-RP.png" height=60>
 <img alt="AWS-Security" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Sec.png" height=60>
