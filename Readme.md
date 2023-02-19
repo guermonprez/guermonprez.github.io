@@ -57,6 +57,6 @@ CISSP, CISM, CEH, CNDA, CMMC-RP, AWS-SCS Security specialty, AWS-SAA Solutions A
 * Hangout: [paul.guermonprez@gmail.com](mailto:paul.guermonprez@gmail.com)
 
 ### Status:
-* US Person (green card). Living in San Francisco.
+* US Citizen, Living in San Francisco.
 * French Citizen.
 
