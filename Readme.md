@@ -11,7 +11,8 @@
 * Available for jobs that require US citizenship.
 
 ### Certifications:
-CISSP, CISM, CEH, CNDA, CMMC-RP, AWS-SCS Security specialty, AWS-SAA Solutions Architect, Azure AI Fundamentals, Azure Fundamentals.
+CISSP, CISM, CEH, CNDA, CMMC-RP, AWS-SCS Security specialty, AWS-SAA Solutions Architect, Azure AI Fundamentals, Azure Fundamentals.<br/>
+Applied Data Science with Python Specialization - University of Michigan
 
 <img alt="CMMC-RP" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CMMC-RP.png" height=60>
 <img alt="AWS-Security" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_AWS-Sec.png" height=60>
@@ -22,6 +23,7 @@ CISSP, CISM, CEH, CNDA, CMMC-RP, AWS-SCS Security specialty, AWS-SAA Solutions A
 <img alt="CISSP" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CISSP.png" height=60>
 <img alt="CEH" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CEH.png" height=60>
 <img alt="CNDA" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CNDA.png" height=60>
+<img alt="CNDA" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_UM.png" height=60>
 
 
 ### Some of my public demos:
