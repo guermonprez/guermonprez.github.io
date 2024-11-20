@@ -57,7 +57,8 @@ Applied Data Science with Python Specialization - University of Michigan
 * Mobile : +1(0)415-847-5560
 * Skype: [paulfg](skype:paulfg?call)
 * Facebook: [fb.com/paul.guermonprez](https://www.facebook.com/paul.guermonprez) (private only)
-* Hangout: [paul.guermonprez@gmail.com](mailto:paul.guermonprez@gmail.com)
+* Google chat: [paul.guermonprez@gmail.com](mailto:paul.guermonprez@gmail.com)
+* Bluesky: [@guermonprez.bsky.social](https://bsky.app/profile/guermonprez.bsky.social)
 
 ### Status:
 * US Citizen, Living in San Francisco.
