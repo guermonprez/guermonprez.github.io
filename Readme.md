@@ -11,7 +11,7 @@
 * Available for jobs that require US citizenship. Tier-3 investigation cleared.
 
 ### Certifications:
-CISSP, CISM, CEH, CNDA, CMMC-RP, CMMC-CCP (Prov), AWS-SCS Security specialty, AWS-SAA Solutions Architect, Azure AI Fundamentals, Azure Fundamentals.<br/>
+CISSP, CISM, CEH, CNDA, CMMC-RP, CMMC-CCP (CCA in process), AWS-SCS Security specialty, AWS-SAA Solutions Architect, Azure AI Fundamentals, Azure Fundamentals.<br/>
 Applied Data Science with Python Specialization - University of Michigan
 
 <img alt="CMMC-CCP" src="https://raw.githubusercontent.com/guermonprez/guermonprez.github.io/master/badge_CMMC-CCP.png" height=60>
