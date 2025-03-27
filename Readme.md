@@ -1,8 +1,7 @@
-# Innovation Management - Focus on AI, Robotics, and Cybersecurity
+# Innovation Management - Focus on AI, productivity and Cybersecurity
 
 ### Current Positions:
-* Management of Innovation and CyberSecurity/Risk Management for Procter and Gamble, based in San Francisco
-* Innovation Lecturer at Toulouse University in France
+* Driving efficiency with AI-driven innovation at Procter and Gamble, based in San Francisco
 
 ### Résumé:
 * [PDF Resume WITH PHOTO](https://github.com/guermonprez/guermonprez.github.io/blob/master/Paul_Guermonprez_-_Innovation_Manager.pdf?raw=true)
