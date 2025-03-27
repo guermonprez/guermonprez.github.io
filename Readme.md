@@ -1,4 +1,4 @@
-# Innovation Management - Focus on AI, productivity and Cybersecurity
+# Innovation Management - Focus on AI, productivity and cybersecurity
 
 ### Current Positions:
 * Driving efficiency with AI-driven innovation at Procter and Gamble, based in San Francisco
