@@ -1,4 +1,4 @@
-# I am the sherpa for your toughest challenges—clearing the path to innovation and performance.
+# Your Partner in Strategic Innovation and Organizational Excellence - Digital Transformation, AI
 
 ### Résumé:
 * [LinkedIn](http://www.linkedin.com/in/paulguermonprez)
