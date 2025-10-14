@@ -1,7 +1,7 @@
 # Your Partner in Strategic Innovation and Organizational Excellence - Digital Transformation, AI
 
 ### Résumé:
-* M&A Security Lead @ Salesforce
+* M&A Security Lead @ Salesforce - [press releases](https://www.salesforce.com/news/topics/mergers-and-acquisitions/)
 * [LinkedIn](http://www.linkedin.com/in/paulguermonprez)
 * [PDF Resume WITH PHOTO](https://github.com/guermonprez/guermonprez.github.io/blob/master/Paul_Guermonprez_-_Innovation_Manager.pdf?raw=true)
 * [PDF Resume WITHOUT PHOTO](https://github.com/guermonprez/guermonprez.github.io/blob/master/Paul_Guermonprez_-_Innovation_Manager_NOPHOTO.pdf?raw=true)
