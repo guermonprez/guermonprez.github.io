@@ -1,6 +1,7 @@
 # Your Partner in Strategic Innovation and Organizational Excellence - Digital Transformation, AI
 
 ### Résumé:
+* M&A Security Lead @ Salesforce
 * [LinkedIn](http://www.linkedin.com/in/paulguermonprez)
 * [PDF Resume WITH PHOTO](https://github.com/guermonprez/guermonprez.github.io/blob/master/Paul_Guermonprez_-_Innovation_Manager.pdf?raw=true)
 * [PDF Resume WITHOUT PHOTO](https://github.com/guermonprez/guermonprez.github.io/blob/master/Paul_Guermonprez_-_Innovation_Manager_NOPHOTO.pdf?raw=true)
@@ -50,9 +51,7 @@ Applied Data Science with Python Specialization - University of Michigan
 ### Contact:
 * Work at Salesforce : pguermonprez@salesforce.com
 * Personal : paul.guermonprez@gmail.com
-* Mobile : +1(0)415-847-5560
-* Facebook: [fb.com/paul.guermonprez](https://www.facebook.com/paul.guermonprez) (private only)
-* Google chat: [paul.guermonprez@gmail.com](mailto:paul.guermonprez@gmail.com)
+* Mobile : +1(0)628-233-3277
 
 ### Status:
 * US Citizen, Living in San Francisco.
